@@ -1,4 +1,4 @@
-#X Vinate Explorex
+#Vintage Explorex
 ## Overview
 This project is focused on creating a chatbot that would assist tourists. The backend code, located in /backend/ is written in Javascript and run using Amazon Bedrock. Code for the chatbot is located in /src/components/Chatbot/.
 
