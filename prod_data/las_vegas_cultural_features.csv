@@ -1,0 +1,55 @@
+Category,Name,Description,Location,When_to_Visit,Cultural_Significance
+Festival,Electric Daisy Carnival (EDC),Massive electronic dance music festival,Las Vegas Motor Speedway,May,High - Largest electronic dance music festival in North America
+Festival,Life is Beautiful,"Music, art, food, and learning festival in downtown",Downtown Las Vegas,September,Medium - Urban renewal celebration showcasing downtown revitalization
+Festival,Las Vegas Film Festival,Independent film showcase,Various venues,June,Low - Growing platform for independent cinema
+Festival,Viva Las Vegas Rockabilly Weekend,Rockabilly music festival with car show,Orleans Hotel,April,Medium - Largest rockabilly event in the world
+Festival,Las Vegas Greek Food Festival,Cultural celebration with traditional food and dance,St. John the Baptist Greek Orthodox Church,September,Low - Long-running ethnic festival
+Festival,Great Vegas Festival of Beer,Craft beer celebration,Downtown Las Vegas,April,Low - Showcases growing craft beer scene
+Festival,Age of Chivalry Renaissance Festival,Medieval-themed event with performances,Sunset Park,October,Low - Family-friendly cultural tradition
+Festival,Las Vegas Pride,LGBTQ+ celebration and parade,Downtown Las Vegas,October,Medium - Expression of Las Vegas's inclusive identity
+Festival,San Gennaro Feast,Italian food and music festival,Varies (often at Craig Ranch Regional Park),May and September,Low - Celebration of Italian-American culture
+Landmark,Welcome to Fabulous Las Vegas Sign,Iconic neon sign created in 1959,South Las Vegas Blvd,Year-round (less crowded mornings),Very High - The most recognizable symbol of Las Vegas
+Landmark,The Strip,4.2-mile stretch of Las Vegas Blvd with themed resorts,Las Vegas Blvd from Mandalay Bay to Stratosphere,Year-round (best at night),Very High - Global icon of entertainment and nightlife
+Landmark,Fremont Street Experience,Historic downtown district with canopy light show,Downtown Las Vegas,Year-round (best after sunset),High - Original Las Vegas casino district
+Landmark,Neon Museum,Outdoor museum preserving historic Las Vegas signs,North Las Vegas Blvd,Year-round (night tours recommended),High - Preservation of Las Vegas's neon heritage
+Landmark,Mob Museum,National Museum of Organized Crime and Law Enforcement,Downtown Las Vegas,Year-round,Medium - Explores Vegas's notorious mob history
+Landmark,Bellagio Fountains,Choreographed water feature set to music,"Bellagio Hotel, Las Vegas Blvd",Daily performances (afternoon and evening),High - Iconic free attraction on the Strip
+Landmark,High Roller Observation Wheel,World's second-tallest Ferris wheel,"The LINQ Promenade, center Strip",Year-round (best views at sunset),Medium - Modern Vegas attraction with city panoramas
+Landmark,Seven Magic Mountains,Colorful rock tower art installation,South Las Vegas Blvd (10 miles south of Strip),Year-round (daytime),Medium - Instagram-famous desert art installation
+Landmark,Red Rock Canyon,National Conservation Area with scenic drive,West of Las Vegas,Year-round (early morning in summer),Medium - Natural counterpoint to Strip's artificial landscapes
+Cuisine,Buffets,All-you-can-eat dining experience,Major casino resorts throughout the Strip and downtown,Year-round,High - Quintessential Vegas dining experience
+Cuisine,Celebrity Chef Restaurants,High-end dining by famous chefs,Major casino resorts on Strip,Year-round (reservations recommended),High - Represents Vegas's evolution into culinary destination
+Cuisine,Shrimp Cocktail,Classic casino staple,"Golden Gate Casino, various casinos",Year-round,Medium - Historic Vegas food tradition
+Cuisine,Prime Rib Specials,24-hour steak availability,"Ellis Island, South Point, various casinos",Year-round,Medium - Old-school Vegas dining tradition
+Cuisine,Chinatown Dining,Authentic Asian cuisine district,Spring Mountain Road west of Strip,Year-round,Medium - Hidden food gem beyond the tourist corridor
+Cuisine,Downtown Food Scene,Emerging chef-driven restaurants,"Fremont East District, Downtown",Year-round,Medium - Represents the new Las Vegas culinary direction
+Cuisine,Cheap Casino Food Specials,Value-oriented dining promotions,Off-Strip and downtown casinos,Year-round,Medium - Gaming culture's food tradition
+Cuisine,Late-Night Dining,24-hour restaurants and after-hours options,Throughout Las Vegas,Year-round,Medium - Reflects Vegas's round-the-clock culture
+Cuisine,Extravagant Brunches,Luxury weekend breakfast-lunch hybrid,"Wynn, Bellagio, Caesars Palace",Weekends,Medium - High-end Vegas indulgence
+Arts,Smith Center for the Performing Arts,Premier performing arts venue,Downtown Las Vegas,Year-round (performance schedule varies),Medium - Cultural cornerstone beyond casino entertainment
+Arts,Bellagio Gallery of Fine Art,Rotating exhibitions of significant artworks,Bellagio Hotel,Year-round,Medium - Museum-quality art in casino setting
+Arts,First Friday Arts District,Monthly arts and cultural event,"Arts District, Downtown Las Vegas",First Friday of each month,Medium - Grassroots arts movement
+Arts,Las Vegas Philharmonic,Professional symphony orchestra,Smith Center,Performance season (schedule varies),Low - Classical music presence in entertainment city
+Arts,Nevada Ballet Theatre,Professional ballet company,Smith Center,Performance season (schedule varies),Low - Classical dance presence in entertainment city
+Arts,Arts Factory,Creative complex with galleries and studios,"Arts District, Downtown Las Vegas",Year-round,Low - Independent art space
+Arts,18b Arts District,Neighborhood of galleries and creative spaces,Downtown Las Vegas,Year-round (First Friday main event),Medium - Local arts community hub
+Arts,CityCenter Fine Art Collection,Public art throughout Aria and CityCenter,"CityCenter complex, Las Vegas Blvd",Year-round,Medium - Major corporate art collection
+Arts,Cirque du Soleil Shows,Theatrical acrobatic performances,Various casino resorts,Year-round (dark days vary by show),High - Redefined Vegas entertainment
+Neighborhood,The Strip,Resort corridor with themed casino properties,"Las Vegas Blvd, from Mandalay Bay to Stratosphere",Year-round (busiest evenings and weekends),Very High - Vegas's main tourist destination
+Neighborhood,Downtown Las Vegas,Original casino district with recent revitalization,Fremont Street and surrounding area,Year-round,High - Historic heart of Las Vegas
+Neighborhood,Arts District,Emerging creative neighborhood with galleries,Area around Charleston and Main,Year-round (First Friday main event),Medium - Center of local arts scene
+Neighborhood,Fremont East District,Hip bar and restaurant scene,East of Fremont Street Experience,Year-round (busiest evenings),Medium - Local-oriented nightlife area
+Neighborhood,Chinatown,Asian cultural and dining district,Spring Mountain Road west of Strip,Year-round,Medium - Authentic counterpoint to tourist areas
+Neighborhood,Summerlin,Upscale planned community with outdoor focus,Western Las Vegas,Year-round,Low - Represents local Las Vegas lifestyle
+Neighborhood,Historic Westside,African-American historic neighborhood,West of Interstate 15,Year-round,Medium - Important to Black history in Las Vegas
+Neighborhood,University District,Area around UNLV with student vibe,East of Strip near UNLV,School year (Sept-May),Low - Education-centered zone
+Neighborhood,Henderson,Suburban city with parks and family attractions,Southeast of Las Vegas,Year-round,Low - Residential counterpart to tourist Vegas
+Tradition,Casino Gambling,Gaming culture that built the city,Casinos throughout the valley,Year-round (24/7),Very High - Fundamental to Las Vegas identity
+Tradition,Showgirl Performances,Classic Vegas entertainment (now mostly historical),Few remaining shows like Vegas! The Show,Year-round,High - Iconic Vegas entertainment tradition
+Tradition,Vegas Weddings,"Quick, sometimes themed marriage ceremonies",Wedding chapels throughout Las Vegas,Year-round (especially weekends),High - Distinctive Vegas cultural export
+Tradition,Resort Pool Parties,Daytime club events with DJs,Major Strip casino pools,March-October,Medium - Modern Vegas daytime entertainment
+Tradition,Sports Betting,Wagering on athletic competitions,Casino sportsbooks,Year-round (busiest during major sporting events),High - Vegas is America's sports gambling capital
+Tradition,New Year's Eve Celebration,Massive street party with fireworks,The Strip and downtown,December 31,High - One of America's largest NYE gatherings
+Tradition,Casino Loyalty Programs,Reward systems for gamblers,All major casinos,Year-round,Medium - Central to Vegas consumer culture
+Tradition,Residency Shows,Extended performance runs by major artists,Various casino theaters,Year-round (schedules vary by performer),High - Redefined Vegas entertainment model
+Tradition,Neon Lights,Distinctive illuminated signage,"Throughout Vegas, especially Fremont Street",Year-round (after sunset),High - Visual signature of Las Vegas

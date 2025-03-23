@@ -1,0 +1,55 @@
+Category,Name,Description,Location,When_to_Visit,Cultural_Significance
+Festival,National Cherry Blossom Festival,Celebration of Japan's gift of cherry trees and spring's arrival,Tidal Basin and various locations,Late March to mid-April,Very High - DC's signature seasonal celebration
+Festival,Smithsonian Folklife Festival,Living cultural exhibition on the National Mall,National Mall,Late June to early July,High - Showcases global and American cultural traditions
+Festival,DC Jazz Festival,Citywide celebration of jazz music,Various venues throughout the city,June,Medium - Highlights DC's significant jazz heritage
+Festival,Capital Pride,LGBTQ+ celebration with parade and festival,"Various locations, parade on 14th Street",June,High - Major expression of DC's inclusive values
+Festival,Passport DC,Month-long international cultural awareness program,Embassies throughout the city,May,Medium - Reflects DC's unique diplomatic presence
+Festival,H Street Festival,Massive street festival celebrating arts and culture,H Street NE Corridor,September,Medium - Showcases neighborhood revitalization
+Festival,Fiesta DC,Latino festival celebrating Hispanic heritage,Pennsylvania Avenue NW,September,High - Honors Latino cultural contributions
+Festival,Adams Morgan Day,Celebration of one of DC's most diverse neighborhoods,18th Street NW,September,Medium - Community expression of neighborhood identity
+Festival,DC Black Film Festival,Showcase of films by and about Black people,Various theaters,August,Medium - Platform for diverse filmmaking voices
+Landmark,National Mall,Open park with monuments and museums,Central Washington DC,Year-round (cherry blossoms in spring),Very High - America's front yard and civic gathering space
+Landmark,Lincoln Memorial,Iconic marble monument honoring Abraham Lincoln,West end of National Mall,Year-round (less crowded at night),Very High - Symbol of national unity and civil rights
+Landmark,U.S. Capitol,Seat of Congress with distinctive dome,East end of National Mall,Year-round (tours require advance reservation),Very High - Symbol of American democracy
+Landmark,Washington Monument,555-foot marble obelisk,Center of National Mall,Year-round (timed tickets for observation deck),Very High - City's most distinctive structure
+Landmark,White House,Official residence and office of the U.S. President,1600 Pennsylvania Avenue NW,Year-round (public tours require congressional request),Very High - Symbol of executive branch
+Landmark,Vietnam Veterans Memorial,Black granite wall listing war casualties,North of Reflecting Pool,Year-round,High - Powerful memorial design that changed monument aesthetics
+Landmark,National Museum of African American History and Culture,Smithsonian museum dedicated to African American life and history,Constitution Avenue NW,Year-round (timed entry passes),High - Newest Smithsonian highlighting Black American experience
+Landmark,Library of Congress,World's largest library with Thomas Jefferson Building,1st Street SE,Year-round (closed Sundays),High - Repository of American knowledge and culture
+Landmark,Frederick Douglass Historic Site,Home of the great abolitionist,Anacostia,Year-round,Medium - Preserves legacy of influential Black American leader
+Cuisine,Half-Smoke,Spicy sausage that's DC's signature street food,"Ben's Chili Bowl (U Street), food carts",Year-round,High - DC's unique contribution to American street food
+Cuisine,Ethiopian Cuisine,Largest Ethiopian dining scene outside Ethiopia,"9th Street NW (Little Ethiopia), Adams Morgan",Year-round,High - Reflects DC's significant East African community
+Cuisine,Mumbo Sauce,Sweet-tangy condiment unique to DC,Carryout restaurants throughout the city,Year-round,Medium - Indigenous sauce of DC's Black community
+Cuisine,Power Lunch,Political and business dining tradition,"Old Ebbitt Grill, Charlie Palmer Steak, The Palm",Weekdays,Medium - Reflects DC's political culture
+Cuisine,Pupusas,Salvadoran stuffed tortillas,"Columbia Heights, Mount Pleasant",Year-round,Medium - Represents large Salvadoran population
+Cuisine,Embassy Row Cuisine,International restaurants reflecting diplomatic presence,"Dupont Circle, Georgetown",Year-round,Medium - Culinary diplomacy
+Cuisine,Chesapeake Seafood,Regional dishes featuring blue crab and oysters,"The Wharf, various seafood restaurants",Year-round (peak crab season summer),Medium - Connects DC to nearby Chesapeake Bay
+Cuisine,Senate Bean Soup,Traditional soup served daily in Senate dining room,"U.S. Capitol, also at select DC restaurants",Year-round,Low - Political culinary tradition
+Cuisine,Food Trucks,Diverse mobile dining options,"Farragut Square, L'Enfant Plaza, Union Station",Weekday lunch hours,Medium - Contemporary urban dining scene
+Arts,Smithsonian Museums,World's largest museum complex with free admission,National Mall and throughout city,Year-round (closed December 25),Very High - Unparalleled collection of American heritage
+Arts,Kennedy Center,National cultural center for performing arts,Rock Creek Pkwy at Virginia Ave,Year-round,"High - Premier venue for theater, music, and dance"
+Arts,National Gallery of Art,World-class art collection and sculpture garden,National Mall,Year-round (closed December 25),High - Major art institution with masterpieces
+Arts,Go-Go Music,Funk subgenre indigenous to DC,"Various venues, especially in Southeast",Year-round,High - DC's unique contribution to American music
+Arts,Arena Stage,Trailblazing regional theater,Southwest Waterfront,Year-round (seasonal productions),Medium - Important American theater company
+Arts,Phillips Collection,America's first museum of modern art,Dupont Circle,Year-round (closed Mondays),Medium - Intimate art experience in historic building
+Arts,9:30 Club,Legendary music venue,V Street NW,Year-round (evening performances),Medium - Nationally renowned concert venue
+Arts,Duke Ellington's DC,Jazz heritage connected to native son,U Street Corridor,Year-round,Medium - Legacy of DC's most famous musician
+Arts,DC Murals,Public art throughout the city reflecting community identity,"Throughout city (concentrated in Adams Morgan, Shaw, H Street NE)",Year-round,Medium - Visual expression of neighborhood identity
+Neighborhood,Georgetown,Historic area with Federal architecture and upscale shopping,Northwest DC along Potomac,Year-round,High - DC's oldest neighborhood with cobblestone streets
+Neighborhood,U Street Corridor,Historic Black Broadway revitalized as nightlife district,U Street NW,Year-round (busiest nights/weekends),High - Center of African American history and culture
+Neighborhood,Capitol Hill,Historic neighborhood surrounding Capitol building,East of Capitol,Year-round,Medium - Residential area for political professionals
+Neighborhood,Adams Morgan,Diverse multicultural district known for nightlife,18th St & Columbia Rd NW,Year-round (busiest weekend evenings),Medium - Symbol of DC's international character
+Neighborhood,Shaw,Historically African American area with cultural significance,North of downtown,Year-round,High - Center of Black intellectual life in early 20th century
+Neighborhood,Dupont Circle,Historic LGBTQ+ center with embassies and rowhouses,Connecticut Ave & P St NW,Year-round,"Medium - Progressive, international flavor"
+Neighborhood,Anacostia,Historic African American community east of the river,Southeast DC,Year-round,Medium - Significant Black history including Frederick Douglass home
+Neighborhood,Chinatown,Small but historic Asian district with Friendship Arch,7th & H Streets NW,Year-round,Low - Diminished but preserved Chinese cultural presence
+Neighborhood,Navy Yard,Revitalized waterfront area with maritime history,Southeast along Anacostia River,Year-round (baseball season for Nationals games),Low - Example of DC's urban renewal
+Tradition,Cherry Blossom Viewing,Annual appreciation of flowering cherry trees,Tidal Basin,Late March to early April,Very High - Spring ritual connecting DC to Japan
+Tradition,Fourth of July on the Mall,Independence Day celebration with fireworks,National Mall,July 4,Very High - Quintessential American patriotic experience
+Tradition,Presidential Inaugurations,Quadrennial swearing-in of president,U.S. Capitol and Pennsylvania Avenue,January 20 every four years,Very High - Peaceful transfer of power ceremony
+Tradition,Protests and Demonstrations,Exercise of First Amendment rights in the capital,"National Mall, Lafayette Square, various locations",Year-round,High - Democratic tradition of civic expression
+Tradition,Marine Corps Marathon,Annual race through monuments and memorials,Arlington to National Mall route,October,Medium - 'Marathon of the Monuments'
+Tradition,Embassy Open Houses,Annual chance to visit international embassies,"Throughout city, concentrated on Embassy Row",May,Medium - Unique DC cultural diplomacy
+Tradition,High Tea at Historic Hotels,Formal afternoon tea service,"Willard InterContinental, Hay-Adams, Four Seasons",Year-round (reservations required),Low - Nod to diplomatic traditions
+Tradition,Easter Egg Roll,White House tradition since 1878,White House South Lawn,Easter Monday,Medium - Historic children's event
+Tradition,DC Statehood Advocacy,Ongoing movement for congressional representation,Throughout city,Year-round,Medium - Political expression of civic identity

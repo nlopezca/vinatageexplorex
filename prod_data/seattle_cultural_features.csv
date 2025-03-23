@@ -1,0 +1,56 @@
+Category,Name,Description,Location,When_to_Visit,Cultural_Significance
+Festival,Bumbershoot,One of North America's largest music and arts festivals,Seattle Center,Labor Day Weekend,High - Longstanding celebration of Seattle's creative culture
+Festival,Seattle International Film Festival,"Largest, most highly attended film festival in the United States",Multiple venues citywide,May-June,High - Premier film event showcasing global cinema
+Festival,Northwest Folklife Festival,"Community celebration of ethnic, folk, and traditional arts",Seattle Center,Memorial Day Weekend,High - Represents Seattle's diverse cultural traditions
+Festival,Seafair,Summer festival with hydroplane races and Blue Angels,Various locations throughout Seattle,July-August,High - Seattle's traditional summer celebration
+Festival,Capitol Hill Block Party,Music and arts festival in Seattle's hippest neighborhood,Capitol Hill,Late July,Medium - Showcases indie music culture
+Festival,Seattle Pride,LGBTQ+ celebration and parade,Downtown Seattle,Last weekend in June,High - Reflects Seattle's progressive values
+Festival,Seattle Cherry Blossom Festival,Celebration of Japanese culture,Seattle Center,April,Medium - Honors Japanese-American contributions
+Festival,Bite of Seattle,Food festival featuring local restaurants,Seattle Center,Mid-July,Medium - Showcases regional culinary scene
+Festival,Earshot Jazz Festival,Concert series featuring jazz performances,Various venues,October-November,Medium - Seattle's vibrant jazz tradition
+Landmark,Space Needle,Futuristic observation tower built for 1962 World's Fair,Seattle Center,Year-round (best views on clear days),Very High - Seattle's most iconic structure
+Landmark,Pike Place Market,Historic farmers market operating since 1907,Downtown waterfront,Year-round (busiest mid-morning to afternoon),Very High - Seattle's most visited attraction
+Landmark,Chihuly Garden and Glass,Exhibition featuring glass artwork of Dale Chihuly,Seattle Center,Year-round,Medium - Showcases Northwest glass art tradition
+Landmark,Museum of Pop Culture (MoPOP),Museum dedicated to contemporary pop culture,Seattle Center,Year-round (closed Tuesdays),Medium - Celebrates Seattle's contributions to music and pop culture
+Landmark,Olympic Sculpture Park,Outdoor sculpture museum on waterfront,Belltown waterfront,Year-round (dawn to dusk),Medium - Marriage of art and nature
+Landmark,Seattle Central Library,Distinctive glass and steel architectural marvel,Downtown Seattle,Year-round,Medium - Bold architectural statement by Rem Koolhaas
+Landmark,Historic Ballard Locks,Ship canal connecting Puget Sound to Lake Union/Washington,Ballard neighborhood,Year-round (salmon viewing July-September),Medium - Important maritime infrastructure with salmon ladder
+Landmark,Seattle Underground,Buried original city streets and storefronts,Pioneer Square,Year-round (tour required),Medium - Remnant of Seattle's early history
+Landmark,Gas Works Park,Former gasification plant converted to public park,North Lake Union,Year-round (best in summer),Medium - Industrial site reimagined as beloved park
+Cuisine,Seafood,Fresh Pacific Northwest fish and shellfish,"Pike Place Market restaurants, The Walrus and the Carpenter, Taylor Shellfish",Year-round (varies by species),High - Signature of Seattle's waterfront location
+Cuisine,Coffee Culture,Artisanal coffee roasting and cafes,"Starbucks Reserve Roastery, Victrola, Espresso Vivace",Year-round,Very High - Seattle pioneered specialty coffee movement
+Cuisine,Asian Fusion,Innovative combinations of Asian culinary traditions,"Stateside, Revel, Joule",Year-round,Medium - Reflects Seattle's Pacific Rim influences
+Cuisine,Teriyaki,Seattle-style Japanese-American quick service dish,Neighborhood teriyaki shops citywide,Year-round,Medium - Unique regional fast food tradition
+Cuisine,Craft Beer,Local brewery scene with Northwest hops,"Fremont Brewing, Holy Mountain, Reuben's Brews",Year-round,High - Major brewing center with distinctive IPA style
+Cuisine,Food Trucks,Mobile eateries serving diverse cuisines,"Various locations, especially South Lake Union",Weekdays lunch hours,Medium - Contemporary urban dining trend
+Cuisine,Pike Place Fish Market,Famous fish counter with theatrical fish-throwing,Pike Place Market,Year-round (closed Sundays),Medium - Iconic Seattle food experience
+Cuisine,Salmon,Pacific Northwest's signature fish,"Elliott's Oyster House, The Salmon Cooker, Ivar's",Year-round (peak wild salmon summer-fall),High - Central to regional indigenous and settler cuisine
+Cuisine,Farmers Markets,Community-based fresh produce markets,Multiple neighborhoods (largest in University District),Year-round (most active April-October),Medium - Reflects locavore ethos
+Arts,Seattle Art Museum,Major art museum with global collection,Downtown Seattle,Year-round (closed Mondays),High - Premier visual arts institution
+Arts,Grunge Music History,Seattle's influential rock music legacy,"Museum of Pop Culture, The Crocodile venue",Year-round,High - Defined Seattle's cultural image in 1990s
+Arts,Seattle Symphony,Grammy-winning orchestra,Benaroya Hall,September-July season,Medium - Acclaimed classical music institution
+Arts,Frye Art Museum,Free museum with contemporary and historical works,First Hill,Year-round (closed Mondays),Medium - Accessible fine art experience
+Arts,Seattle Opera,Professional opera company known for Wagner productions,McCaw Hall,Seasonal performances,Medium - Internationally recognized opera company
+Arts,Seattle Theatre Group,Historic theaters presenting diverse performances,"The Paramount, Moore, and Neptune Theatres",Year-round,Medium - Preserved historic performance spaces
+Arts,First Thursday Art Walk,Monthly gallery openings,Pioneer Square,First Thursday evening of each month,Low - Community art tradition
+Arts,Pacific Northwest Ballet,Leading ballet company,McCaw Hall,Seasonal performances,Medium - Renowned dance company
+Arts,Hugo House,Literary center for writers,Capitol Hill,Year-round,Low - Reflects Seattle's literary community
+Neighborhood,Capitol Hill,LGBTQ+-friendly district with counterculture history,East of downtown,Year-round (busiest evenings/weekends),"High - Epicenter of Seattle's progressive, artistic culture"
+Neighborhood,Ballard,Former Scandinavian fishing village now trendy district,Northwest Seattle,Year-round (Sunday farmers market),Medium - Blend of maritime heritage and modern amenities
+Neighborhood,Fremont,Self-proclaimed 'Center of the Universe' with bohemian vibe,North of Lake Union,Year-round (Solstice Parade in June),"Medium - Quirky, artistic community with iconic public art"
+Neighborhood,International District,"Pan-Asian neighborhood (Chinatown, Japantown, Little Saigon)",South of downtown,Year-round,High - Cultural diversity and immigrant history
+Neighborhood,Pioneer Square,Historic district with original Seattle architecture,Southern edge of downtown,Year-round (First Thursday art walks),High - Seattle's original neighborhood
+Neighborhood,West Seattle,Relaxed area with beach access and city views,Across harbor from downtown,Year-round (Alki Beach best in summer),Medium - More residential with distinct community feel
+Neighborhood,Wallingford,Residential area with small business district,North of Lake Union,Year-round,Low - Represents Seattle's neighborhood-centric identity
+Neighborhood,Georgetown,Former industrial area with artist community,South Seattle,Year-round (Art Attack on second Saturday),Medium - Working-class heritage with creative edge
+Neighborhood,Columbia City,"Diverse, historic neighborhood in south Seattle",Rainier Valley,Year-round,Medium - Example of Seattle's multicultural communities
+Tradition,Coffee Culture,Serious coffee appreciation and consumption,Independent cafes and roasters citywide,Year-round,Very High - Seattle revolutionized American coffee culture
+Tradition,Seafair Pirates,Theatrical pirate group appearing at events,Various locations during Seafair,July-August,Medium - Quirky Seattle summer tradition
+Tradition,Seattle Freeze,Cultural tendency toward polite but reserved interaction,Social settings citywide,Year-round,Medium - Distinctive local social pattern
+Tradition,Outdoors Lifestyle,"Hiking, kayaking, and mountain activities",City parks and surrounding wilderness,Year-round (best in summer),High - Core element of Pacific Northwest identity
+Tradition,Seattle Sounders Matches,Passionate soccer fanbase with march to stadium,Lumen Field,March-October,Medium - Largest soccer attendance in United States
+Tradition,Solstice Cyclists,Naked bike ride during Fremont Solstice Parade,Fremont neighborhood,June (Summer Solstice),Medium - Eccentric celebration of artistic freedom
+Tradition,Trick or Treating on Capitol Hill,Massive Halloween celebration on Broadway,Capitol Hill,October 31,Low - Community Halloween tradition
+Tradition,Polar Bear Plunge,New Year's Day swim in frigid Matthews Beach,Matthews Beach Park,January 1,Low - Communal winter ritual
+Tradition,Salmon Homecoming,Celebration of salmon's cultural significance,Waterfront Park,September,Medium - Honors indigenous relationship with salmon
+Tradition,Progressive Politics,Activist tradition and left-leaning governance,Citywide,Year-round (May Day demonstrations),High - Defining aspect of Seattle's civic identity

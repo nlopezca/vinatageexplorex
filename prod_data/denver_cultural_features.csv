@@ -1,0 +1,56 @@
+Category,Name,Description,Location,When_to_Visit,Cultural_Significance
+Festival,Great American Beer Festival,Nation's largest ticketed beer festival featuring thousands of beers,Colorado Convention Center,October,High - Celebrates Denver's status as a craft beer capital
+Festival,Denver Pride,LGBTQ+ celebration with parade and festival,Civic Center Park,June,High - Major expression of Denver's inclusive identity
+Festival,Cherry Creek Arts Festival,Prestigious outdoor fine arts festival,Cherry Creek North,July 4th weekend,Medium - Showcases Denver's visual arts community
+Festival,Underground Music Showcase,Denver's largest indie music festival,South Broadway,Late July,Medium - Highlights Denver's independent music scene
+Festival,Denver Film Festival,Largest film celebration in the Rocky Mountain region,Various venues,November,Medium - Denver's premier cinematic event
+Festival,Cinco de Mayo,Celebration of Mexican culture,Civic Center Park,Early May,High - Honors Denver's Latino heritage
+Festival,Denver PrideFest,Colorado's largest celebration of LGBTQ+ pride,Civic Center Park,June,High - Represents Denver's progressive values
+Festival,Juneteenth Music Festival,Celebration of African American freedom and culture,Five Points neighborhood,June,High - Honors Denver's African American history
+Festival,Taste of Colorado,Food festival featuring local restaurants,Civic Center Park,Labor Day weekend,Medium - Showcases Denver's culinary landscape
+Landmark,Red Rocks Amphitheatre,Natural rock amphitheater with exceptional acoustics,Morrison (15 miles west of Denver),Year-round (concerts April-October),Very High - Internationally renowned music venue
+Landmark,Colorado State Capitol,Government building with gold dome and Mile High marker,200 E Colfax Ave,Year-round (tours weekdays),High - Symbol of Colorado government with 'Mile High' step
+Landmark,Denver Union Station,Historic train station converted to mixed-use hub,"1701 Wynkoop St, LoDo",Year-round,High - Revitalized transportation center and gathering place
+Landmark,Larimer Square,Denver's oldest block and first historic district,Larimer St between 14th and 15th,Year-round,High - Original site of Denver settlement
+Landmark,Blue Bear (I See What You Mean),40-foot blue bear sculpture peering into convention center,Colorado Convention Center,Year-round,Medium - Iconic public art installation
+Landmark,Molly Brown House,Historic home of Titanic survivor and activist,1340 Pennsylvania St,Year-round (closed Mondays),Medium - Preservation of women's history
+Landmark,Daniels & Fisher Tower,Historic clock tower modeled after Venice's Campanile,16th Street Mall,Year-round (exterior viewing),Medium - Architectural landmark from Denver's early growth
+Landmark,Buckhorn Exchange,Colorado's oldest restaurant with taxidermy collection,1000 Osage St,"Year-round (dinner daily, lunch weekdays)",Medium - Historic dining establishment since 1893
+Landmark,Denver Mint,Facility producing coins for circulation,320 W Colfax Ave,Weekdays (advance reservations required),Medium - One of only two U.S. Mints offering tours
+Cuisine,Green Chile,Spicy Colorado-style pork stew with Hatch chiles,"Santiago's, El Taco de Mexico, The Original Chubby's",Year-round,High - Signature regional dish with New Mexican influence
+Cuisine,Craft Beer,Extensive local brewing scene,"Great Divide, Ratio Beerworks, Denver Beer Co, many others",Year-round,Very High - Denver is a national craft beer hub
+Cuisine,Rocky Mountain Oysters,Fried bull testicles - Colorado novelty food,"Buckhorn Exchange, The Fort",Year-round,Medium - Infamous local delicacy
+Cuisine,Breakfast Burritos,Portable morning meal with green chile,"Illegal Pete's, Santiago's, Bonfire Burritos",Year-round (morning),Medium - Denver breakfast tradition
+Cuisine,Denver Omelet,"Egg dish with ham, onions, green peppers, and cheese",Dozens of diners citywide,Year-round (breakfast),Low - Named for the city though origins disputed
+Cuisine,Game Meat,"Buffalo, elk, and wild game preparations","The Fort, Buckhorn Exchange",Year-round,Medium - Reflects frontier culinary heritage
+Cuisine,Mexican-American Food,Denver's own take on Mexican cuisine,"Casa Bonita, El Taco de Mexico, La Loma",Year-round,High - Significant influence from Mexican-American community
+Cuisine,Farm-to-Table Movement,Restaurants emphasizing local sourcing,"Root Down, Fruition, The Bindery",Year-round,Medium - Reflects Colorado's agricultural connections
+Cuisine,Food Halls,Collective dining spaces with multiple vendors,"Denver Central Market, Avanti F&B, The Source",Year-round,Medium - Modern communal dining trend
+Arts,Denver Art Museum,Major art institution with distinctive architecture,100 W 14th Ave Pkwy,Year-round (closed Mondays),High - Significant collection with Indigenous and Western focus
+Arts,Denver Street Art,Murals and graffiti art throughout city,"RiNo Art District, Santa Fe Arts District",Year-round (daylight hours best),High - Vibrant public art movement
+Arts,Denver Center for Performing Arts,Largest performing arts complex under one roof,14th and Curtis Streets,Year-round (performance schedules vary),Medium - Premier theater and performance venue
+Arts,Denver Museum of Nature & Science,Natural history museum with IMAX theater,"2001 Colorado Blvd, City Park",Year-round,Medium - Scientific and cultural institution
+Arts,First Friday Art Walks,Monthly gallery openings and art events,"Santa Fe Arts District, RiNo, Golden Triangle",First Friday of each month,Medium - Community art celebration
+Arts,Meow Wolf Denver: Convergence Station,Immersive art experience,1338 1st St,Year-round,"Medium - Innovative, interactive art installation"
+Arts,Clyfford Still Museum,Museum dedicated to abstract expressionist painter,1250 Bannock St,Year-round (closed Mondays),Medium - Unique single-artist collection
+Arts,Denver Public Art Program,Extensive collection of public artworks,"Throughout city, including Blue Bear and airport installations",Year-round,Medium - One of the oldest public art programs in US
+Arts,Red Line Contemporary Art Center,Nonprofit contemporary art center,RiNo Art District,Year-round,Low - Supports emerging artists
+Neighborhood,LoDo (Lower Downtown),Historic district with Victorian buildings now housing restaurants and bars,Northwest downtown area,Year-round (busiest evenings and weekends),Medium - Denver's oldest neighborhood revitalized
+Neighborhood,RiNo (River North) Art District,Former industrial area transformed by art and breweries,North of downtown along South Platte River,Year-round,High - Center of Denver's contemporary arts scene
+Neighborhood,Five Points,Historic African-American district with jazz heritage,Northeast of downtown,Year-round,High - Denver's 'Harlem of the West' with strong cultural history
+Neighborhood,Capitol Hill,"Diverse, densely populated area with historic mansions and counterculture vibe",East of downtown,Year-round,Medium - Denver's most eclectic neighborhood
+Neighborhood,Highland,Gentrified area known for restaurants and historic homes,Northwest of downtown,Year-round,Medium - Originally Italian and Hispanic neighborhood
+Neighborhood,Cherry Creek,Upscale shopping and dining district,Southeast Denver,Year-round,Low - Affluent area with luxury retail
+Neighborhood,Santa Fe Arts District,Concentration of galleries and creative spaces,Santa Fe Drive,Year-round (First Friday art walks),Medium - Denver's first art district
+Neighborhood,Baker,Historic neighborhood with Victorian architecture,South of downtown,Year-round,Low - Preserved Denver architectural heritage
+Neighborhood,Golden Triangle,Museum district with cultural institutions,Southwest of downtown,Year-round,Medium - Denver's cultural center
+Tradition,Denver Broncos Football,Passionate fanbase with gameday rituals,Empower Field at Mile High,NFL season (September-January),High - Central part of Denver's identity
+Tradition,4/20 Celebration,Cannabis celebration since legalization,Civic Center Park,April 20,Medium - Reflects Colorado's pioneering cannabis legalization
+Tradition,National Western Stock Show,Annual livestock exhibition and rodeo since 1906,National Western Complex,January,High - Celebrates Western heritage and agricultural roots
+Tradition,Mile High Outdoor Lifestyle,"Culture of hiking, skiing, and outdoor recreation",City parks and nearby mountains,Year-round,Very High - Fundamental to Denver identity
+Tradition,Denver Cruiser Ride,Weekly themed bicycle ride,Starts from various locations,Wednesday evenings (summer),Low - Quirky community cycling tradition
+Tradition,Skiing and Snowboarding,Winter sports central to local culture,Mountain resorts within 1-2 hours of city,Winter (November-April),High - Major regional recreational tradition
+Tradition,Red Rocks Concerts,Music performances in natural amphitheater,Red Rocks Park,April-October,Very High - Iconic Denver cultural experience
+Tradition,Yoga on the Rocks,Morning yoga sessions at Red Rocks,Red Rocks Amphitheatre,Summer weekends,Low - Modern wellness tradition
+Tradition,Denver Oktoberfest,Beer celebration in ballpark neighborhood,20th and Larimer,September,Medium - Reflects Denver's German heritage and beer culture
+Tradition,Alternative Transportation Culture,"Strong bicycle, pedestrian, and public transit emphasis",Citywide bike lanes and light rail,Year-round,Medium - Reflects Denver's environmental values
